@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'proyectoumgredes'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_91549434137743D6A49803FB3465230F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8FE3375F6B349EA9733550A0A8A404F }}
           package: .
