@@ -1,5 +1,5 @@
 <?php
-$conexion=mysqli_connect('https://databases.000webhost.com/index.php?route=/', 'id20881395_edsonhervla', '321/Edson', 'id20881395_analisisuno') or die ('Error al conectar con la base de datos');
+$conexion=mysqli_connect('https://databases.000webhost.com/index.php?route=/&route=%2F', 'id20881395_edsonhervla', '321/Edson', 'id20881395_analisisuno') or die ('Error al conectar con la base de datos');
 ?>
 
 <!-- ?php
