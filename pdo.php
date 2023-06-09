@@ -1,5 +1,5 @@
 <?php
-$db=new PDO("mysql:host=https://databases.000webhost.com/index.php?route=/; dbname=id20881395_analisisuno", "id20881395_edsonhervla", "321/Edson");    
+$db=new PDO("mysql:host=predes.mysql.database.azure.com; dbname=analisisuno;", "predes","Aa123456");    
 ?>
 
 
